@@ -43,7 +43,16 @@ Analyzed real-world job market data to uncover insights about salaries, experien
 ## Files
 
 * `data_cleaning.ipynb`
-* `eda_analysis.ipynb`
-* `cleaned_data.csv`
+* `analysis.ipynb`
 
 ---
+
+##  Dataset
+
+Due to GitHub file size limitations, the original and cleaned datasets are not included in this repository.
+
+If you want to use the dataset:
+
+* You can download it from the original source (e.g., Naukri dataset)
+* Or contact me to get access
+
